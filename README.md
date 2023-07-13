@@ -1,5 +1,3 @@
-![4](https://github.com/dibyajyotiranjan/calendar_weather_expense_note_manegement_app/assets/73651507/bf945283-5ce7-4075-9fd7-7d12b5ea3025)
-
 # odiacalendar2023
 https://github.com/dibyajyotiranjan/calendar_weather_expense_note_manegement_app/assets/73651507/0d1a336c-daad-4457-9f94-2b453cfb9353
 
